@@ -12,5 +12,5 @@ Link order
  Link detector to Programming board 
  Then link programming board to Container, Databank,
  Then Screen
- 
+  Copy trackcontent.lua and paste to Programming Board. 
 
