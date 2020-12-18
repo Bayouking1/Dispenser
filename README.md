@@ -3,12 +3,14 @@ track if anybody takes items out of a container
 
 
 items need for this script:
-- Detector(need to be connected twice)
+Link order 
+- Detector
+- Programming Board 
 - Container
+- Databank 
 - Screen
-- Programming board
-- Databank
+ Link detector to Programming board 
+ Then link programming board to Container, Databank,
+ Then Screen
+ 
 
-TODO:
-- List players on last player who took something
-- Fix time so it shows date
